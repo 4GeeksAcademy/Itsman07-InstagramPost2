@@ -1,0 +1,53 @@
+body {
+    background: black;
+}
+.post {
+    background: white; width: 400px; height: 500px; margin: auto;
+}
+
+.head-post{
+    display: flex; height: 60px;
+}
+
+.html-icon {
+    font-size: 30px; padding: 10px;
+}
+
+.html-head {
+    font-size: 20px; margin-right: 275px; 
+}
+
+.html-head h6 {
+    margin: 10%; margin-left: 10px;
+}
+
+.dots-icons {
+    font-size: 30px;
+}
+
+.image-post img {
+    width: 400px; height: 250px;
+}
+
+.post-icons {
+    display: flex; margin: 5px; border: 5px; height: 20px;
+}
+.send-icon {
+    margin-right: 290px; padding: 5px; width: 30px; height: 30px;
+}
+
+.post-body {
+    height: 100px;
+}
+
+.heart-icon {
+    width: 50px; height: 50px; padding: 5px;
+}
+
+.comment-icon {
+    width: 50px; height: 50px; padding: 5px;
+}
+
+.save-icon {
+    width: 50px; height: 50px; padding: 5px;
+}
